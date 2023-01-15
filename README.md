@@ -15,8 +15,8 @@
 - 내일 해야할 일은 무엇인가요?
 
 ## Contributor
-| [준찌](https://github.com/juunzzi) |
-|:---:|
-|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|
+| [준찌](https://github.com/juunzzi) |[조시](https://github.com/hyunrrr)|
+|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|🥷|
 ## Contact
 - 장준혁 (jjh01027717502@gmail.com)
