@@ -17,7 +17,7 @@
 ## Contributor
 | [준찌](https://github.com/juunzzi) |[조시](https://github.com/hyunrrr)|
 |:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|<img width="100px" alt="image" src="https://user-images.githubusercontent.com/78349600/212547085-2f608427-da40-47b9-a5b0-6e00be84954e.png">
+|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|<img width=100px alt="image" src="https://user-images.githubusercontent.com/78349600/212547085-2f608427-da40-47b9-a5b0-6e00be84954e.png">
 |
 ## Contact
 - 장준혁 (jjh01027717502@gmail.com)
