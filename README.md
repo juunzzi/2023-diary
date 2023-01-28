@@ -31,9 +31,9 @@
 ```
 
 ## Contributor
-| [준찌](https://github.com/juunzzi) |[조시](https://github.com/hyunrrr)|[무비](https://github.com/byhhh2)|
-|:---:|:---:|:---:| 
-|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|<img width=100px alt="image" src="https://avatars.githubusercontent.com/u/54316950?v=4">|<img width=100px alt="__" src="https://avatars.githubusercontent.com/u/52737532?v=4">|
+| [준찌](https://github.com/juunzzi) |[조시](https://github.com/hyunrrr)|[무비](https://github.com/byhhh2)| [진실](https://github.com/kauthenticity) |
+|:---:|:---:|:---:|:---:| 
+|<img src="https://avatars.githubusercontent.com/u/78349600?v=4" width=100px alt="_"/>|<img width=100px alt="image" src="https://avatars.githubusercontent.com/u/54316950?v=4">|<img width=100px alt="__" src="https://avatars.githubusercontent.com/u/52737532?v=4">|<img width=100px alt="__" src="https://avatars.githubusercontent.com/u/53258214?v=4">|
 
 ## Contact
 - 장준혁 (jjh01027717502@gmail.com)
